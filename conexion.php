@@ -1,8 +1,8 @@
 <?php 
 
 	$server ='localhost';
-	$user ='root';
-	$pass ='qwerty123';
+	$user ='francisco';
+	$pass ='cisco';
 	$bd ='software';
 
 	$con = new mysqli($server, $user, $pass, $bd);
